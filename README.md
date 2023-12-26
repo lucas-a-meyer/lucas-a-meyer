@@ -1,5 +1,4 @@
 # Lucas A. Meyer
 
-After working on internal projects for many years, I haven't really kept my GitHub profile up-to-date. As of April 2022, I'm trying to finally get a little better at it, but it will still be under heavy construction for a while.
-
-For now, the main thing that is accessible from it is my [blog](https://www.meyerperin.com), which is nothing more than a collection of [my LinkedIn posts](https://www.linkedin.com/in/lucasameyer) that received more than 50 reactions.
+If you want more information about what I'm doing, I keep my [blog](https://www.meyerperin.com), fairly up-to-date. 
+You can also find me in [LinkedIn](https://www.linkedin.com/in/lucasameyer) and [Threads](https://www.threads.net/@lucas_a_meyer).
